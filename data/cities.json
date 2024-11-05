@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "f652",
+      "cityName": "La Croixille",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-09-03T09:42:00.207Z",
+      "notes": "wjbicbecwebcwebchjb",
+      "position": {
+        "lat": "48.19296078324823",
+        "lng": "-1.0546027755703482"
+      }
+    },
+    {
+      "id": "b86e",
+      "cityName": "Lladurs",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-09-04T06:00:22.588Z",
+      "notes": "visited here many times",
+      "position": {
+        "lat": "42.08126570492335",
+        "lng": "1.3841759562555203"
+      }
+    }
+  ]
+}
